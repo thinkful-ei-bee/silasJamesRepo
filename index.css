@@ -49,3 +49,11 @@ button:hover {
 .shopping-item__checked {
   text-decoration: line-through;
 }
+
+#js-rename-form {
+  display: inline-block;
+}
+
+.rename-form__hidden {
+  display: none;
+}
